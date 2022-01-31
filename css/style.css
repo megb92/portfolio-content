@@ -1,0 +1,18 @@
+nav {
+    background-color: lightgray;
+}
+
+body{
+    background-color: rgb(230, 243, 230);
+}
+
+.gallery {
+}
+footer {
+    background: lightgray;
+}
+footer p {
+    text-align: center;
+    font-size: 16px;
+    padding: 8px 8px 8px 0px;
+}
